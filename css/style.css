@@ -1,0 +1,70 @@
+ul.header {
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	float: left;
+	position: fixed;
+	background-color: #3f3f3f;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+ul.header li {
+	padding: 10px;
+	display: list-item;
+	text-align: -webkit-match-parent;
+	float: left;
+	background-color: transparent;
+}
+ul.header li:hover {
+	background-color: #333;
+}
+ul.footer {
+	left: 0px;
+	width: 100%;
+	float: left;
+	position: absolute;
+	background-color: #3f3f3f;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+ul.footer li {
+	color: #cfcfcf;
+	padding: 10px;
+	display: list-item;
+	text-align: -webkit-match-parent;
+	/*float: left;*/
+	background-color: transparent;
+}
+div.container {
+	/*position: fixed;*/
+	left: 0px;
+	margin-top: 40px;
+}
+div.topimg {
+	padding-top: 30px;
+	width: 100%;
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://bloghost-1254352323.cos.ap-hongkong.myqcloud.com/BlogUpload/2020/06/78888804_p0.png);
+}
+.toptitle {
+	text-shadow: #3f3f3f 1px 0 10px;
+	color: #fff;
+}
+img.contentimg {
+	border-radius: 10px;
+	width: 35%;
+	height: 15%;
+}
+a {
+	color: #cfcfcf;
+	text-decoration: none;
+}
+a :hover {
+	color: #efefef;
+}
