@@ -1,3 +1,6 @@
+body {
+	/*background-color: #D4D4D4;*/
+}
 ul.header {
 	width: 100%;
 	top: 0px;
@@ -50,7 +53,8 @@ div.topimg {
 	height: 200px;
 	background-size: cover;
 	background-position: center;
-	background-image: url(https://bloghost-1254352323.cos.ap-hongkong.myqcloud.com/BlogUpload/2020/06/78888804_p0.png);
+	/*background-image: url(https://bloghost-1254352323.cos.ap-hongkong.myqcloud.com/BlogUpload/2020/06/78888804_p0.png);*/
+	background-image: url(https://bloghost-1254352323.cos.ap-hongkong.myqcloud.com/ImageUpload/PicoOhmori26%233Waifu4x.jpg);
 }
 .toptitle {
 	text-shadow: #3f3f3f 1px 0 10px;
